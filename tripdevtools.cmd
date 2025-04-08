@@ -1,0 +1,1 @@
+set PATH=%UserProfile%\source\repos-efacec\trip-devtools;%PATH%

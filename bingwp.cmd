@@ -1,0 +1,1 @@
+xcopy "%UserProfile%\AppData\Local\Microsoft\BingWallpaperApp\WPImages" "%UserProfile%\OneDrive\downloads\wallpapers\bing"

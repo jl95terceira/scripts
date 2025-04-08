@@ -1,0 +1,1 @@
+java --add-opens=java.base/sun.nio.ch=ALL-UNNAMED -jar C:\Program_Files\kafdrop-4.1.0.jar --kafka.brokerConnect=127.0.0.1:9092

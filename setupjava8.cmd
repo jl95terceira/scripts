@@ -1,0 +1,1 @@
+setupmaven && set "JAVA_HOME=%JDK8_HOME%" && set "PATH=%JDK8_HOME%\bin;%PATH%"

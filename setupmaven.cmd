@@ -1,0 +1,1 @@
+set "PATH=%PATH%;%MAVEN_HOME%\bin"

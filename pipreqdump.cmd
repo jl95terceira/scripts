@@ -1,0 +1,1 @@
+pip freeze > C:\Temp\requirements.txt

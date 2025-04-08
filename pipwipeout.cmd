@@ -1,0 +1,1 @@
+pipreqdump && pip uninstall -r C:\Temp\requirements.txt -y && del C:\Temp\requirements.txt

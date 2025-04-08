@@ -1,0 +1,1 @@
+rmdir "%PYTHON_VENVS%\%1" /s /q

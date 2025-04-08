@@ -1,0 +1,1 @@
+deactivate & rmdir /s /q dist & venv bt && pym build && deactivate

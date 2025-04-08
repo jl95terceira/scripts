@@ -1,0 +1,1 @@
+"%IDEA_HOME%\bin\idea64.exe" %*

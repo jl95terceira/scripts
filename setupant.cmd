@@ -1,0 +1,1 @@
+set "PATH=%ANT_HOME%\bin;%PATH%"

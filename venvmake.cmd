@@ -1,0 +1,1 @@
+python -m venv "%PYTHON_VENVS%\%1"

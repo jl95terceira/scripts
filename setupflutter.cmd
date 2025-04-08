@@ -1,0 +1,1 @@
+set "PATH=%FLUTTER_HOME%\bin;%PATH%"
