@@ -1,1 +1,1 @@
-set "PATH=%PATH%;%MAVEN_HOME%\bin"
+set "PATH=%MAVEN_HOME%\bin;%PATH%"

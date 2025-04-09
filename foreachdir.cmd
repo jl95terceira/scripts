@@ -1,0 +1,1 @@
+for /d %%d in (.\*) do (cd %%d & %* & cd ..)
