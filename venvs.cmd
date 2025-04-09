@@ -1,1 +1,1 @@
-dir "%PYTHON_VENVS%"
+mdor "%USERPROFILE%\__venvs__" && dir "%USERPROFILE%\__venvs__"

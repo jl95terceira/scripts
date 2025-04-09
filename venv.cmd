@@ -1,1 +1,1 @@
-activate %* && pip freeze
+mdor "%USERPROFILE%\__venvs__" && "%USERPROFILE%\__venvs__\%1\Scripts\activate"

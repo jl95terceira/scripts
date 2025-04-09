@@ -1,1 +1,1 @@
-python -m venv "%PYTHON_VENVS%\%1"
+mdor "%USERPROFILE%\__venvs__" && python -m venv "%USERPROFILE%\__venvs__\%1"

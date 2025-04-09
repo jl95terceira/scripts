@@ -1,1 +1,1 @@
-venvquit & venv bt && pym twine upload dist\* && venvquit
+deactivate & venv build && pym twine upload dist\* && deactivate
