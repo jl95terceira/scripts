@@ -1,0 +1,1 @@
+setupmaven && set "JAVA_HOME=%JDK11_HOME%" && set "PATH=%JDK11_HOME%\bin;%PATH%"

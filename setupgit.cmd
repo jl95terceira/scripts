@@ -1,0 +1,1 @@
+set PATH=%GIT_HOME%\bin;%PATH%
