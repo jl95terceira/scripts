@@ -1,7 +1,6 @@
 import json
 import sys
 
-if __name__ == '__main__':
+import jsonbeau
 
-    fn = sys.argv[1]
-    print(json.dumps(json.load(open(fn, mode='r'))))
+if __name__ == '__main__': jsonbeau.main_maker(indent=None)()
